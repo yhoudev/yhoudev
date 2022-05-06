@@ -7,8 +7,6 @@
 
 <body>
 
-<h1 align="center">YHOU.DEV</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
+<div align="center"> Essaye de comprendre le monde du .lua / html</div>
+<div></div>
+<div align="center"> Copyrigt by ATX</div>
