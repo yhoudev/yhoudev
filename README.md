@@ -7,7 +7,7 @@
 
 <body>
 
-<h1>YHOU.DEV</h1>
+<h1 align="center">YHOU.DEV</h1>
 <p>This is a paragraph.</p>
 
 </body>
