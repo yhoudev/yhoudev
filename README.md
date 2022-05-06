@@ -8,5 +8,5 @@
 <body>
 
 <div align="center"> Essaye de comprendre le monde du .lua / html</div>
-<div></div>
+<body>
 <div align="center"> Copyrigt by ATX</div>
