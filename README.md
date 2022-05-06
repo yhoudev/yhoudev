@@ -7,6 +7,6 @@
 
 <body>
 
-<div align="center"> Essaye de comprendre le monde du .lua / html</div>
+<h1 align="center"> Essaye de comprendre le monde du .lua / html</h1>
 <body>
-<div align="center"> Copyrigt by ATX</div>
+<h2 align="center"> Copyrigt by ATX</h2>
