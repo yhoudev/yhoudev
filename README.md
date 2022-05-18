@@ -6,7 +6,7 @@
 
 
 <body>
-
+</p> 
 <div align="center"> Essaye de comprendre le monde du .lua / html</div>
 </p>
 <div align="center"> Copyrigt by ATX</h2>
