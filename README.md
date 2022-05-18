@@ -5,4 +5,9 @@
 </div>
 <body>
 </p> 
-<div align=center>FiveM Devllopement 2.0 / yhou.dev<div/>
+
+------
+</p>
+Credits: [Yhou.dev](https://github.com/yhoudev)
+</p>
+<div>Last Edit: 18/05/2022</div>
