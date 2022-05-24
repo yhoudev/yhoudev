@@ -21,7 +21,7 @@
 <div>Last Edit: 18/05/2022</div>
 
 <h4 align="center">
-<details>
+  <details></h4>
 <summary>View more...</summary>
   </p>
   <div>Comming soon...</div>
