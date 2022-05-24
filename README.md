@@ -5,7 +5,7 @@
 
 <div align="center"> • Last project: [FiveM]<a href="https://github.com/yhoudev"> Ped Menu</a></div> 
 </p>
-<img align="center" src="https://forum.cfx.re/uploads/default/original/3X/0/3/0301f645963889531fb4870e8d47f2f7da7f1c45.gif">
+<img align="center" width=800 height=800  src="https://forum.cfx.re/uploads/default/original/3X/0/3/0301f645963889531fb4870e8d47f2f7da7f1c45.gif">
   </a></div>
 
 
